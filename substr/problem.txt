@@ -1,1 +1,0 @@
-Give an example of string function : substr()

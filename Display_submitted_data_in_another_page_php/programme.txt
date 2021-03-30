@@ -1,1 +1,0 @@
-Write a programme to Develope student Registration form and display all the submitted data on another page

@@ -1,1 +1,0 @@
-Give the example of variable function:var_dump()
